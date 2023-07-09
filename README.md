@@ -1,5 +1,7 @@
 # bashCopier
 
+![Example](./example-image.PNG) 
+
 ## Introduction
 
 This software initiative was born from my experiences in Professor Corkan's Linux/Unix course at the University of Central Arkansas. Throughout the semester, we frequently engaged in assignments that involved copying sample scripts from PDF documents into our terminal environment. These tasks served to deepen our understanding of the concepts covered during our lectures.
