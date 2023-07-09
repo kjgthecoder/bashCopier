@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This software initiative was born from my experiences in Professor Corkan's Linux/Unix course at the University of Central Arkansas. Throughout the semester, we frequently engaged in assignments that involved copying sample scripts from PDF documents into our terminal environment. These tasks served to deepen our understanding of the concepts elucidated during our lectures.
+This software initiative was born from my experiences in Professor Corkan's Linux/Unix course at the University of Central Arkansas. Throughout the semester, we frequently engaged in assignments that involved copying sample scripts from PDF documents into our terminal environment. These tasks served to deepen our understanding of the concepts covered during our lectures.
 
 However, one significant challenge was that pasting from a PDF into vim often led to the loss of original formatting. In addition, the process retained all line numbers, which proved to be a nuisance. Recognizing this issue, I sought to develop a program that would bridge this gap, streamlining and automating the process.
 
