@@ -56,4 +56,15 @@ Below are some example scripts to try:
 7 fi
 ```
 
+**Example 3** - Leading white space only
+```bash
+    #!/bin/bash
+    read -p "word1:" word1
+    read -p "word2:" word2
+    if test "$word1" = "$word2"
+    then
+    echo "Match"
+    fi
+```
+
 
