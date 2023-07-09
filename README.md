@@ -1,4 +1,4 @@
-# bashcopier
+# bashCopier
 
 ## Introduction
 
@@ -6,7 +6,7 @@ This software initiative was born from my experiences in Professor Corkan's Linu
 
 However, one significant challenge was that pasting from a PDF into vim often led to the loss of original formatting. In addition, the process retained all line numbers, which proved to be a nuisance. Recognizing this issue, I sought to develop a program that would bridge this gap, streamlining and automating the process.
 
-Developing 'bashcopier_test' provided me with valuable experience in using the tkinter framework. This allowed me to learn and understand the nuances of event handling and GUI creation in Python. The final product is a user-friendly tool that formats copied scripts correctly, irrespective of their source.
+Developing 'bashCopier' provided me with valuable experience in using the tkinter framework. This allowed me to learn and understand the nuances of event handling and GUI creation in Python. The final product is a user-friendly tool that formats copied scripts correctly, irrespective of their source.
 
 The envisioned program functions as an intermediary - users can copy content from a PDF into the application, which then presents the correctly formatted code. This code is then automatically copied to the clipboard, ready to be pasted directly into vim.
 
