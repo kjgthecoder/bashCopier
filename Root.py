@@ -38,8 +38,7 @@ class Root:
         for line in self.code_lines_to_format: 
             print(line)
         self.code_lines_to_format = lines
-        copied_text = pyperclip.copy(("\n").join(lines))
-
+        
     def try_parse_int(self, num_str): 
         """
         Returns true or false if string passed can be a number or not
@@ -72,7 +71,8 @@ class Root:
                 indented_line = " " * (indent_size * indent_level) + line
 
             indented_code += indented_line + "\n"
-        
+
+        pyperclip.copy(indented_code)
         return indented_code.splitlines()
 
     def handle_paste_event(self, event, data): 
