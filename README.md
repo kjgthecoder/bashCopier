@@ -1,1 +1,0 @@
-# bashcopier_test
